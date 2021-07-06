@@ -1,0 +1,13 @@
+#ok{
+    color: red;
+    background-color: chartreuse;
+    max-width: 200px;
+    width: fit-content;
+    height: 50px;
+}
+.ff{
+    color:indigo;
+    background-color: yellow;
+    width: 250px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
